@@ -1,0 +1,1 @@
+Translate image from webcam to our GUI
